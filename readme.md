@@ -2,6 +2,8 @@
 
 For Chinese version, please click [here](readme-zh-cn.md).
 
+If you found this Repositorie helpful, please give me a Star :)
+
 ## Introduction
 
 This course is a  postgraduate level course offered by the Department of Computer Science at the City University of Hong Kong (CityU), and is a required course for PhD and MPhil students in the CS department, as well as an elective course for taught postgraduate students.

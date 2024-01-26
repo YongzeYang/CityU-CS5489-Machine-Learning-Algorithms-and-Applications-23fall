@@ -2,6 +2,8 @@
 
 For English version, please click [here](readme.md).
 
+如果您觉得本 Repositorie 对您有帮助，请给我一个Star吧 :)
+
 ## 简介
 
 这门课程是香港城市大学（City University of Hong Kong）电脑科学系（Department of Computer Science）开设的一门研究生级别的课程，为CS系博士生、研究型硕士生的必修课，以及授课制硕士生的选修课。

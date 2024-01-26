@@ -39,14 +39,16 @@ Assignment则和tutorial不同，每一次Assignment会给出一个特定的机�
 
 我完成的两次Assignments的位置如下：
 
-| 内容                                                         | 位置                                        |
-| ------------------------------------------------------------ | ------------------------------------------- |
-| [Assignment 1 Report](Assignment 1/Assignment1-2023A-report.ipynb) | Assignment 1/Assignment1-2023A-report.ipynb |
-| [Assignment 1 Final Solution](Assignment 1/Assignment1-2023A-Final.ipynb) | Assignment 1/Assignment1-2023A-Final.ipynb  |
-| [Assignment 1 Prediction Result](Assignment 1/final_submission.csv) | Assignment 1/final_submission.csv           |
-| [Assignment 2 Report](Assignment 2/Assignment2-2023A-report.ipynb) | Assignment 2/Assignment2-2023A-report.ipynb |
-| [Assignment 2 Final Solution](Assignment 2/Assignment2-2023A-Final.ipynb) | Assignment 2/Assignment2-2023A-Final.ipynb  |
-| [Assignment 2 Prediction Result](Assignment 2/final_submission.csv) | Assignment 2/final_submission.csv           |
+| 内容                             | 位置                                         |
+| -------------------------------- | ------------------------------------------- |
+| Assignment 1                     | Assignment 1                                |
+| Assignment 1 Report              | Assignment 1/Assignment1-2023A-report.ipynb |
+| Assignment 1 Final Solution      | Assignment 1/Assignment1-2023A-Final.ipynb  |
+| Assignment 1 Prediction Result   | Assignment 1/final_submission.csv           |
+| Assignment 2                     | Assignment 2                                |
+| Assignment 2 Report              | Assignment 2/Assignment2-2023A-report.ipynb |
+| Assignment 2 Final Solution      | Assignment 2/Assignment2-2023A-Final.ipynb  |
+| Assignment 2 Prediction Result   | Assignment 2/final_submission.csv           |
 
 我的assignment 1扣除了2分（1分是因为报告讨论不够insightful，1分是因为kaggle排名在1%以外），而assignment 2扣除了0.5分（因为kaggle排名不在0.5%内）。
 
@@ -54,13 +56,13 @@ Assignment则和tutorial不同，每一次Assignment会给出一个特定的机�
 
 对于Group Project，你可以选择和另一个同学组队完成。Project的内容类似Assignment，题目是开放的，你可以从给定的现有Kaggle竞赛中任选，也可以自己选一个题目完成。
 
-我们当时选的题目是[LLM - Detect AI Generated Text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text)，我们的结果文件位于目录`Group Project`下，您可以在`Group Project/Course Project-2023A.ipynb`阅读我们的[报告](Group Project/Course Project-2023A.ipynb)。
+我们当时选的题目是[LLM - Detect AI Generated Text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text)，我们的结果文件位于目录`Group Project`下，您可以在`Group Project/Course Project-2023A.ipynb`阅读我们的报告。
 
 ### 往年考试试卷
 
 在 23fall 中，本课程的期中考试将涵盖前五章，期末考试将涵盖后五章。考试全部采用闭卷形式，但允许在考试中使用一页（期中考试）或双页（期末考试）手写 A4  cheatsheet。
 
-目前，共有5套[期中考试题](Past Exam Papers\Midterms)，他们都包含了问题和答案，您可以在`Past Exam Papers\Midterms`查看它们。此外，共有2套[期末考试题](Past Exam Papers\Finals)，但是只有问题没有答案，您可以在`Past Exam Papers\Finals`查看它们。
+目前，共有5套期中考试题，他们都包含了问题和答案，您可以在`Past Exam Papers\Midterms`查看它们。此外，共有2套期末考试题，但是只有问题没有答案，您可以在`Past Exam Papers\Finals`查看它们。
 
 注意：之后的考试题型和内容可能有所变化或采取其他形式。
 

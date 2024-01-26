@@ -18,16 +18,16 @@ At the end of each lecture there will be a Tutorial session related to this cour
 
 | Tutorials                                 | Location                   |
 | ----------------------------------------- | -------------------------- |
-| [Tutorial 1](Tutorials/tutorial1.ipynb)   | Tutorials/tutorial1.ipynb  |
-| [Tutorial 2](Tutorials/tutorial2.ipynb)   | Tutorials/tutorial2.ipynb  |
-| [Tutorial 3](Tutorials/tutorial3.ipynb)   | Tutorials/tutorial3.ipynb  |
-| [Tutorial 4](Tutorials/tutorial4.ipynb)   | Tutorials/tutorial4.ipynb  |
-| [Tutorial 5](Tutorials/tutorial5.ipynb)   | Tutorials/tutorial5.ipynb  |
-| [Tutorial 6](Tutorials/tutorial6.ipynb)   | Tutorials/tutorial6.ipynb  |
-| [Tutorial 7](Tutorials/tutorial7.ipynb)   | Tutorials/tutorial7.ipynb  |
-| [Tutorial 8](Tutorials/tutorial8.ipynb)   | Tutorials/tutorial8.ipynb  |
-| [Tutorial 9](Tutorials/tutorial9.ipynb)   | Tutorials/tutorial9.ipynb  |
-| [Tutorial 10](Tutorials/tutorial10.ipynb) | Tutorials/tutorial10.ipynb |
+| [Tutorial 1](Tutorials/Tutorial1.ipynb) | Tutorials/Tutorial1.ipynb |
+| [Tutorial 2](Tutorials/Tutorial2.ipynb) | Tutorials/Tutorial2.ipynb |
+| [Tutorial 3](Tutorials/Tutorial3.ipynb) | Tutorials/Tutorial3.ipynb |
+| [Tutorial 4](Tutorials/Tutorial4.ipynb) | Tutorials/Tutorial4.ipynb |
+| [Tutorial 5](Tutorials/Tutorial5.ipynb) | Tutorials/Tutorial5.ipynb |
+| [Tutorial 6](Tutorials/Tutorial6.ipynb) | Tutorials/Tutorial6.ipynb |
+| [Tutorial 7](Tutorials/Tutorial7.ipynb) | Tutorials/Tutorial7.ipynb |
+| [Tutorial 8](Tutorials/Tutorial8.ipynb) | Tutorials/Tutorial8.ipynb |
+| [Tutorial 9](Tutorials/Tutorial9.ipynb) | Tutorials/Tutorial9.ipynb |
+| [Tutorial 10](Tutorials/Tutorial10.ipynb) | Tutorials/Tutorial10.ipynb |
 
 I deducted 1 point each for tutorial 2 and tutorial 6, and the rest of the tutorials were full marks.
 

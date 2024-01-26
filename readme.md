@@ -41,12 +41,12 @@ The locations of the two Assignments I completed are listed below:
 
 | Content                                                      | Location                                    |
 | ------------------------------------------------------------ | ------------------------------------------- |
-| [Assignment 1 Report](Assignment 1/Assignment1-2023A-report.ipynb) | Assignment 1/Assignment1-2023A-report.ipynb |
-| [Assignment 1 Final Solution](Assignment 1/Assignment1-2023A-Final.ipynb) | Assignment 1/Assignment1-2023A-Final.ipynb  |
-| [Assignment 1 Prediction Result](Assignment 1/final_submission.csv) | Assignment 1/final_submission.csv           |
-| [Assignment 2 Report](Assignment 2/Assignment2-2023A-report.ipynb) | Assignment 2/Assignment2-2023A-report.ipynb |
-| [Assignment 2 Final Solution](Assignment 2/Assignment2-2023A-Final.ipynb) | Assignment 2/Assignment2-2023A-Final.ipynb  |
-| [Assignment 2 Prediction Result](Assignment 2/final_submission.csv) | Assignment 2/final_submission.csv           |
+| [Assignment 1 Report]("Assignment 1/Assignment1-2023A-report.ipynb") | Assignment 1/Assignment1-2023A-report.ipynb |
+| [Assignment 1 Final Solution]("Assignment 1/Assignment1-2023A-Final.ipynb") | Assignment 1/Assignment1-2023A-Final.ipynb  |
+| [Assignment 1 Prediction Result]("Assignment 1/final_submission.csv") | Assignment 1/final_submission.csv           |
+| [Assignment 2 Report](Assignment 2/"Assignment2-2023A-report.ipynb") | Assignment 2/Assignment2-2023A-report.ipynb |
+| [Assignment 2 Final Solution]("Assignment 2/Assignment2-2023A-Final.ipynb") | Assignment 2/Assignment2-2023A-Final.ipynb  |
+| [Assignment 2 Prediction Result]("Assignment 2/final_submission.csv") | Assignment 2/final_submission.csv           |
 
 I deducted 2 points for Assignment 1 (1 point because the report discussion was not insightful enough and 1 point because the kaggle ranking was outside the 1%) and 0.5 points for Assignment 2 (because the kaggle ranking was not within the 0.5%).
 
@@ -54,13 +54,13 @@ I deducted 2 points for Assignment 1 (1 point because the report discussion was 
 
 For the Group Project, you can choose to team up with another student to complete it. The content of the Project is similar to the Assignment. The topic is open and you can either choose from any of the given existing Kaggle competitions or you can pick a topic of your own to complete.
 
-The topic we chose at the time was [LLM - Detect AI Generated Text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text) and all our efforts are located in the catalog under `Group Project`, you can read our [report](Group Project/Course Project-2023A.ipynb) at `Group Project/Course Project-2023A.ipynb`.
+The topic we chose at the time was [LLM - Detect AI Generated Text](https://www.kaggle.com/competitions/llm-detect-ai-generated-text) and all our efforts are located in the catalog under `Group Project`, you can read our [report]("Group Project/Course Project-2023A.ipynb") at `Group Project/Course Project-2023A.ipynb`.
 
 ## Past Exam Papers
 
 In 23fall, the midterm exam for this course will cover the first five chapters and the final exam will cover the last five chapters. The exams are all closed book, but one-page (midterm) or double-page(final exam) handwritten A4 cheatsheet is allowed during the exams.
 
-Currently, there are 5 sets of [midterm exam papers](Past Exam Papers\Midterms), they all contain questions and answers and you can view them in `Past Exam Papers\Midterms`. In addition, there are 2 sets of [final exam papers](Past Exam Papers\Finals), but they only have questions and no answers, you can view them at `Past Exam Papers\Finals`.
+Currently, there are 5 sets of [midterm exam papers]("Past Exam Papers\Midterms"), they all contain questions and answers and you can view them in `Past Exam Papers\Midterms`. In addition, there are 2 sets of [final exam papers]("Past Exam Papers\Finals"), but they only have questions and no answers, you can view them at `Past Exam Papers\Finals`.
 
 Note: Subsequent exam questions and content may change or take other forms.
 
